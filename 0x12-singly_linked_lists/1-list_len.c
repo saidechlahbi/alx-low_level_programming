@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
- * list_len - gets the number of nodes
- * @h: pointer to the head (first node)
- *
- * Return: number of nodes
-*/
+  * list_len - Show the number of elements of a list
+  * @h: A linked list
+  *
+  * Return: The number of elements of a list
+  */
 
 size_t list_len(const list_t *h)
 {
