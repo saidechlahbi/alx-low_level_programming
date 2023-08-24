@@ -18,4 +18,3 @@ void free_list(list_t *head)
 		free(Last_node);
 	}
 }
-
