@@ -3,7 +3,8 @@
 #include <stdlib.h>
 
 /**
- * print_listint - a function that prints all the elements of a list of type int_t.
+ * print_listint - a function that prints all the elements 
+ * of a list of type int_t.
  *
  * @h: a pointer to the head of the list_t.
  *
