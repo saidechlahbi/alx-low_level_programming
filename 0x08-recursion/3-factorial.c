@@ -1,11 +1,10 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
- * factorial - function that returns the factorial of a given number.
- * @n : input integer.
- * Return : 0 if n is lower than 0 .
- */
+* factorial - function that returns the length of a string
+* @n: n!
+* Description : 0 => return (1) , below 0 => return (-1)
+*Return: factorial
+*/
 
 int factorial(int n)
 {
